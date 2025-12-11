@@ -1,4 +1,4 @@
-# SLFood - Um sistem de gestão para estabelecimentos gastronomicos.
+# SLFood - Um sistem de gestão para estabelecimentos gastronomicos. - Feito por: <a href="https://github.com/JulioSalvarani">JulioSalvarani</a> , <a href="https://github.com/IvanBarbosaFilho">IvanBarbosaFilho</a> , <a href="https://github.com/pLeal27">pLeal27</a>
 
 O aplicativo permite ao gestor de um estabelecimento:
 - Gerenciar a quantidade de seus produtos no estoque
